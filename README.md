@@ -25,3 +25,4 @@
 # 地图编辑器
 - 运行环境: .NET 8 Windows Desktop Runtime
 - 全部解压后打开MapEditor.App.exe ;选择客户端目录,点更改目录即可
+  <img width="2560" height="1402" alt="QQ截图20260305111317" src="https://github.com/user-attachments/assets/f8b2ac7d-7d21-46c9-863d-629c9358fa97" />
