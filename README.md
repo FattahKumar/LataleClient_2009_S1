@@ -17,11 +17,12 @@
 ## V1.1
 - fix:怪物名字左边稀有图标
 - fix:GLOBAL_MOB.LDT._Mark_IconIndex > 4 才显示屏幕血条
-- loading读条时间由500ms额外限制调整到200ms
+- loading读条时间调整到500ms
 - fix:商城中按充值/点券不足购买弹充值 卡死问题
-- 开放组队:限制最大组队人数2
-- 修复任务显示
+- 开放组队:限制最大组队人数2 ;当组队>2会强行退队
+- 修复任务详情显示
 - 修复部分npc不显示
+- 修复PVP
 
 # 地图编辑器
 - 运行环境: .NET 8 Windows Desktop Runtime
